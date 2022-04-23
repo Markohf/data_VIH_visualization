@@ -10,4 +10,7 @@ Descarga los datos que elegiste.
 Usa Python para crear una visualización informativa y placentera a la vista usando los datos que seleccionaste.
 También necesitas subir tu trabajo para esta tarea a GitHub, ¡así todos pueden ver lo fabulosa que es la visualización que creaste!
 
+Resolucion:
+Seleccione una fuente de datos de la evolucion del VIH en Africa. Decidi comparar los casos de VIH por sexo en el año 2019.
+
 ![image](https://user-images.githubusercontent.com/67491277/164874114-b386f440-4107-4d83-9015-713c1d271cf8.png)
